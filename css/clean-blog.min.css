@@ -1,6 +1,6 @@
 body{
-    background-color:rgb(49, 46, 46); 
-    font-size:20px;color:#fbfbfc;
+    background-color:rgb(65, 64, 64); 
+    font-size:20px;color:#cdcdcf;
     font-family: 'Roboto Mono', monospace;
 }
 p{
@@ -20,11 +20,11 @@ a{
     -webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s
 }
 a:focus,a:hover{
-    color:#53daf5
+    color:#02cff8
 }
 blockquote{
     font-style:italic;
-    color:#868e96
+    color:#8196aa
 }
 .avatar{
     width:100%;
@@ -46,13 +46,13 @@ blockquote{
     border-bottom-left-radius:5px
 }
 ::-moz-selection{
-    color:#fff;
+    color:#faf6f6;
     background:#3ed5f3;
     text-shadow:none
 }
 ::selection{
     color:#fff;
-    background:#3ad8f8;
+    background:#0ccef5;
     text-shadow:none
 }
 img::selection{
